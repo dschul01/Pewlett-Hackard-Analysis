@@ -14,19 +14,19 @@ PH is needing to know the number of retiring employees per title as well as tenu
 2) The breakout of retirees by title is provided below.  PH needs to assess workload to determine if remaining employees can maintain current levels and cost/benefit of increasing workload.
 	
 <img src="https://github.com/dschul01/Pewlett-Hackard-Analysis/blob/main/Retiring_Title.png" width="200" height="200">
-3)
 
-4)
+3) There are 1,549 employees who meet the mentorship eligibility parameters.  Breakdown by job title is provided below.
 
+<img src="https://github.com/dschul01/Pewlett-Hackard-Analysis/blob/main/Mentorship_Eligible.png" width="200" height="200">
 
-Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+4) PH should look at expanding eligibility for the mentorship program as there are only 2% (1,549 eligible compared to 72,458 retirees) of retiring employees which meet the current criteria.
+
 
 ## Summary
 
 
-<img src="https://github.com/dschul01/Pewlett-Hackard-Analysis/blob/main/Mentorship_Eligible.png" width="200" height="200">
 
-<img src="https://github.com/dschul01/Pewlett-Hackard-Analysis/blob/main/Ratio_Title.png" width="500" height="200">
+<img src="https://github.com/dschul01/Pewlett-Hackard-Analysis/blob/main/Ratio_Title.png" width="600" height="200">
 
 
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
