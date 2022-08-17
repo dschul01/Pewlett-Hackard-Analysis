@@ -8,12 +8,23 @@ The purpose of this project is to utilize Postgres and pgAdmin to update Pewlett
 ![EmployeesDB.png](https://github.com/dschul01/Pewlett-Hackard-Analysis/blob/main/EmployeesDB.png)
 
 
+## Results
+PH is needing to know the number of retiring employees per title as well as tenured employees eligibile to participate for a mentorship program.  Potential retirees were determined by querying unique active employees born between 1/1/1952 and 12/31/1955 while the pool of mentorship program participants were based on those born in 1965.  The following was determined from those queries:
+1) There are 72,458 or 32% of PH employees who are approaching retirement age. 
+2) The breakout of retirees by title is provided below.  PH needs to assess workload to determine if remaining employees can maintain current levels and cost/benefit of increasing workload.
+	![Retiring_Title.png](https://github.com/dschul01/Pewlett-Hackard-Analysis/blob/main/Retiring_Title.png)
+3)
+4)
+
+
+Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+
+## Summary
 
 
 
-Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
-Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
