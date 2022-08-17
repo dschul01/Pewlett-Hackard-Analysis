@@ -15,6 +15,7 @@ PH is needing to know the number of retiring employees per title as well as tenu
 	
 <img src="https://github.com/dschul01/Pewlett-Hackard-Analysis/blob/main/Retiring_Title.png" width="200" height="200">
 3)
+
 4)
 
 
@@ -23,6 +24,9 @@ Provide a bulleted list with four major points from the two analysis deliverable
 ## Summary
 
 
+<img src="https://github.com/dschul01/Pewlett-Hackard-Analysis/blob/main/Non_Retiring_Title.png" width="200" height="200">
+
+<img src="https://github.com/dschul01/Pewlett-Hackard-Analysis/blob/main/Ratio_Title.png" width="200" height="200">
 
 
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
