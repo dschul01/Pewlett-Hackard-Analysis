@@ -14,23 +14,18 @@ PH is needing to know the number of retiring employees per title as well as tenu
 2) The breakout of retirees by title is provided below.  PH needs to assess workload to determine if remaining employees can maintain current levels and cost/benefit of increasing workload.
 	
 <img src="https://github.com/dschul01/Pewlett-Hackard-Analysis/blob/main/Retiring_Title.png" width="200" height="200">
-
 3) There are 1,549 employees who meet the mentorship eligibility parameters.  Breakdown by job title is provided below.
 
 <img src="https://github.com/dschul01/Pewlett-Hackard-Analysis/blob/main/Mentorship_Eligible.png" width="200" height="200">
-
 4) PH should look at expanding eligibility for the mentorship program as there are only 2% (1,549 eligible compared to 72,458 retirees) of retiring employees which meet the current criteria.
 
 
 ## Summary
-
+PH is facing a significant volume of 72,458 retirees in the coming years as illustrated above.  The company needs to assess workload and other factors before determining if all retirees should be replaced.  The table below shows non-retirees outnumber retirees 2.3 : 1 per title.  It's possible the remaining workforce can keep up with the current workload, but deeper analysis is necessary.
 
 
 <img src="https://github.com/dschul01/Pewlett-Hackard-Analysis/blob/main/Ratio_Title.png" width="600" height="200">
 
+PH should think about expanding its criteria for qualified retirement-ready employees to mentor the next generation of employees.  There are only 1,549 eligible using their current criteria.  Expanding the birthdate range by one year to include 1964 increases the eligibility pool from 1,549 to 19,905.  SQL code is provided to show the impact of adding one year to the mentorship criteria.
 
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+<img src="https://github.com/dschul01/Pewlett-Hackard-Analysis/blob/main/Expanded_Mentorship_Criteria.png" width="400" height="200">
