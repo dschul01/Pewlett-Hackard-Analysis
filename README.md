@@ -28,4 +28,4 @@ PH is facing a significant volume of 72,458 retirees in the coming years as illu
 
 PH should think about expanding its criteria for qualified retirement-ready employees to mentor the next generation of employees.  There are only 1,549 eligible using their current criteria.  Expanding the birthdate range by one year to include 1964 increases the eligibility pool from 1,549 to 19,905.  SQL code is provided to show the impact of adding one year to the mentorship criteria.
 
-<img src="https://github.com/dschul01/Pewlett-Hackard-Analysis/blob/main/Expanded_Mentorship_Criteria.png" width="400" height="200">
+<img src="https://github.com/dschul01/Pewlett-Hackard-Analysis/blob/main/Expanded_Mentorship_Criteria.png" width="400" height="400">
