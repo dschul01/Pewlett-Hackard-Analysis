@@ -12,7 +12,7 @@ The purpose of this project is to utilize Postgres and pgAdmin to update Pewlett
 PH is needing to know the number of retiring employees per title as well as tenured employees eligibile to participate for a mentorship program.  Potential retirees were determined by querying unique active employees born between 1/1/1952 and 12/31/1955 while the pool of mentorship program participants were based on those born in 1965.  The following was determined from those queries:
 1) There are 72,458 or 32% of PH employees who are approaching retirement age. 
 2) The breakout of retirees by title is provided below.  PH needs to assess workload to determine if remaining employees can maintain current levels and cost/benefit of increasing workload.
-	![Retiring_Title.png](https://github.com/dschul01/Pewlett-Hackard-Analysis/blob/main/Retiring_Title.png)
+	<img src="https://github.com/dschul01/Pewlett-Hackard-Analysis/blob/main/Retiring_Title.png" width="100", height="100">
 3)
 4)
 
