@@ -26,7 +26,7 @@ Provide a bulleted list with four major points from the two analysis deliverable
 
 <img src="https://github.com/dschul01/Pewlett-Hackard-Analysis/blob/main/Non_Retiring_Title.png" width="200" height="200">
 
-<img src="https://github.com/dschul01/Pewlett-Hackard-Analysis/blob/main/Ratio_Title.png" width="200" height="200">
+<img src="https://github.com/dschul01/Pewlett-Hackard-Analysis/blob/main/Ratio_Title.png" width="500" height="200">
 
 
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
